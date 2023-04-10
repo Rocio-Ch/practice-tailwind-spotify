@@ -36,6 +36,7 @@ Diseño original: https://www.spotify.com/us/premium/
 
 
 Preview del proyecto:
+
 ![Preview del portfolio](./img/preview-mobile.png)
 
 ![Preview del portfolio](./img/preview-cards-desktop.png)
