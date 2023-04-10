@@ -30,7 +30,7 @@ Este proyecto es propuesto por ADA ITW para poner en práctica Tailwind tomando 
 ### Ver el proyecto
 Para poder visualizar el proyecto simplemente colocá el siguiente enlace en tu navegador preferido:
 
-https://rocio-ch.github.io/meme-generator/
+https://rocio-ch.github.io/practice-tailwind-spotify/
 
 Diseño original: https://www.spotify.com/us/premium/
 
