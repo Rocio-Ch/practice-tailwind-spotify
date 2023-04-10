@@ -1,4 +1,4 @@
-# Generador de Memes
+# Practica de Tailwind
 
 Mi nombre es Rocío Magalí Chaparro, estoy estudiando para convertirme en desarrolladora Frontend Developer y en esta ocasión presento un proyecto para poner en práctica Tailwind.
 ***
